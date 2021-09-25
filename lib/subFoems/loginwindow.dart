@@ -23,7 +23,7 @@ class LoginBody extends StatelessWidget {
               hintText: "Password",
               labelText: "Password",
               border: OutlineInputBorder(
-                  borderRadius: BorderRadius.circular(10)
+                  borderRadius: BorderRadius.circular(50)
               )
           ),),
           SizedBox(height: 15,),
